@@ -19,7 +19,8 @@
         <activity android:name=".homeActivity" />
         <activity android:name=".cashboxActivity" />
         <activity android:name=".recordsActivity" />
-        <activity android:name=".savingsActivity"></activity>
+        <activity android:name=".savingsActivity" />
+        <activity android:name=".cashbox2Activity"></activity>
     </application>
 
 </manifest>
